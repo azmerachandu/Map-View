@@ -1,45 +1,130 @@
-
-
 const map = L.map("map", {
     center: [22.305, 87.320],
     zoom: 15,
-    zoomControl: false,
-    maxZoom: 16,
-    minZoom: 16,
-    dragging: false,
-    scrollWheelZoom: false
+    zoomControl: true,
+    maxZoom: 12,
+    minZoom: 18,
+    dragging: true,
+    scrollWheelZoom: true
 });
 
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+L.tileLayer("https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
 
-// Layer groups
 const dronePathLayer = L.layerGroup().addTo(map);
 const obstaclesLayer = L.layerGroup().addTo(map);
 const noFlyZonesLayer = L.layerGroup().addTo(map);
 const markersLayer = L.layerGroup().addTo(map);
 
-// Load obstacles
-async function loadObstacles() {
+function createWaypointMarker(lat, lon, label) {
+    return L.marker([lat, lon], {
+        icon: L.divIcon({
+            className: "waypoint-marker",
+            html: `<div style='background-color: #dc3545; color: white; padding: 5px 10px; border-radius: 50%; font-weight: bold;'>${label}</div>` ,
+            iconSize: [30, 30],
+            iconAnchor: [15, 15]
+        })
+    }).addTo(markersLayer);
+}
+
+function createDirectionArrow(start, end) {
+    const deltaX = end.lon - start.lon;
+    const deltaY = end.lat - start.lat;
+    const angle = Math.atan2(deltaY, deltaX) * (180 / Math.PI);
+
+    const arrowIcon = L.divIcon({
+        className: "direction-arrow",
+        html: `
+            <div style="transform: rotate(${angle}deg);">
+                <svg width="120" height="120" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M25.0898 41.3548L23.1738 17.2959L40.7421 27.8208L25.0898 41.3548Z" fill="#E23744"/>
+                </svg>
+            </div>
+        `,
+        iconSize: [120, 120],
+        iconAnchor: [60, 60]
+    });
+
+    return L.marker([(start.lat + end.lat) / 2, (start.lon + end.lon) / 2], { icon: arrowIcon }).addTo(dronePathLayer);
+}
+
+async function displayWaypointsAndPath(waypoints) {
+    if (waypoints.length !== 3) {
+        alert("Please provide three waypoints: start (A), connection (B), and destination (C).");
+        return;
+    }
+
+    const [start, connection, destination] = waypoints;
+
+    markersLayer.clearLayers();
+    dronePathLayer.clearLayers();
+
+    createWaypointMarker(start.lat, start.lon, "A");
+    createWaypointMarker(connection.lat, connection.lon, "B");
+    createWaypointMarker(destination.lat, destination.lon, "C");
+
+    const path = [
+        [start.lat, start.lon],
+        [connection.lat, connection.lon],
+        [destination.lat, destination.lon]
+    ];
+
+    L.polyline(path, { color: "red", weight: 3, dashArray: "5, 5" }).addTo(dronePathLayer);
+
+    // Add directional arrows from A to B and B to C
+    createDirectionArrow(start, connection);
+    createDirectionArrow(connection, destination);
+
+    // Additional direct dotted line from A to C
+    L.polyline([
+        [start.lat, start.lon],
+        [destination.lat, destination.lon]
+    ], { color: "red", weight: 3, dashArray: "5, 5" }).addTo(dronePathLayer);
+
+    const center = {
+        lat: (start.lat + destination.lat) / 2,
+        lon: (start.lon + destination.lon) / 2
+    };
+
+    loadObstacles(center);
+    loadNoFlyZones(center);
+    map.setView(center, 14);
+}
+
+async function loadObstacles(center) {
+    obstaclesLayer.clearLayers();
     const response = await fetch("/api/obstacles");
     const obstacles = await response.json();
 
     obstacles.forEach(obs => {
+        const radius = Math.max(5, Math.min(obs.radius, 30));
+        L.circle([obs.lat, obs.lon], {
+            color: "red",
+            fillColor: "#f03",
+            fillOpacity: 0.3,
+            radius: radius
+        }).addTo(obstaclesLayer);
+
+        // Add obstacle icon in the circle
         L.marker([obs.lat, obs.lon], {
             icon: L.divIcon({
-                className: "obstacle-marker",
-                html: "🛑",
-                iconSize: [20, 20]
+                className: "obstacle-icon",
+                html: `
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="15" cy="15" r="14" fill="#E23744" stroke="black" stroke-width="2"/>
+                        <text x="15" y="18" fill="white" font-size="10" font-family="Arial" font-weight="bold" text-anchor="middle">OBS</text>
+                    </svg>
+                `,
+                iconSize: [30, 30],
+                iconAnchor: [15, 15]
             })
-        })
-        .bindPopup(`Obstacle: ${obs.name}`)
-        .addTo(obstaclesLayer);
+        }).addTo(obstaclesLayer);
     });
 }
 
-// Load circular no-fly zones
-async function loadNoFlyZones() {
+async function loadNoFlyZones(center) {
+    noFlyZonesLayer.clearLayers();
     const response = await fetch("/api/no-fly-zones");
     const zones = await response.json();
 
@@ -47,59 +132,20 @@ async function loadNoFlyZones() {
         L.circle([zone.lat, zone.lon], {
             color: "red",
             fillColor: "#f03",
-            fillOpacity: 0.3,
+            fillOpacity: 0.1,
             radius: zone.radius
-        })
-        .bindPopup(`No-Fly Zone: ${zone.name} (${zone.radius} meters)`)
-        .addTo(noFlyZonesLayer);
+        }).bindPopup(`No-Fly Zone: ${zone.name}`).addTo(noFlyZonesLayer);
     });
 }
 
-// Calculate and display straight drone path with markers
-async function calculateDronePath(start, end) {
-    const url = `/api/drone-path?startLat=${start.lat}&startLon=${start.lon}&endLat=${end.lat}&endLon=${end.lon}`;
-    const response = await fetch(url);
-    const data = await response.json();
+// Waypoints based on app.js data
+const waypoints = [
+    { lat: 22.303, lon: 87.305 }, // A (Start)
+    { lat: 22.306, lon: 87.300 }, // B (Connection)
+    { lat: 22.310, lon: 87.308 }  // C (Destination)
+];
 
-    dronePathLayer.clearLayers();
-    markersLayer.clearLayers();
+displayWaypointsAndPath(waypoints);
 
-    if (data.route && data.route.length > 0) {
-        const latlngs = data.route.map(point => [point.lat, point.lon]);
-        L.polyline(latlngs, { color: "blue", weight: 4 }).addTo(dronePathLayer);
-
-        // Add start marker
-        L.marker([start.lat, start.lon], {
-            icon: L.divIcon({
-                className: "start-marker",
-                html: "🚀",
-                iconSize: [30, 20]
-            })
-        }).addTo(markersLayer);
-
-        // Add destination marker
-        const lastPoint = latlngs[latlngs.length - 1];
-        L.marker(lastPoint, {
-            icon: L.divIcon({
-                className: "end-marker",
-                html: "🎯",
-                iconSize: [30, 20]
-            })
-        }).addTo(markersLayer);
-
-        // Center map on the path
-        const middlePoint = latlngs[Math.floor(latlngs.length / 2)];
-        map.setView(middlePoint, 20);
-    } else {
-        alert("No safe route available.");
-    }
-}
-
-// Example start and end points
-const start = { lat: 22.300, lon: 87.310 };
-const end = { lat: 22.310, lon: 87.300 };
-
-// Load map layers and path
-loadObstacles();
-loadNoFlyZones();
-calculateDronePath(start, end);
+loadObstacles({ lat: 22.305, lon: 87.320 });
+loadNoFlyZones({ lat: 22.305, lon: 87.320 });
