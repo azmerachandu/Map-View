@@ -1,0 +1,6002 @@
+[
+    {
+        "name": "Obstacle 1",
+        "lat": 22.306054,
+        "lon": 87.358861,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 2",
+        "lat": 22.260571,
+        "lon": 87.220836,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 3",
+        "lat": 22.375361,
+        "lon": 87.385045,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 4",
+        "lat": 22.233382,
+        "lon": 87.346765,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 5",
+        "lat": 22.31022,
+        "lon": 87.278715,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 6",
+        "lat": 22.3283,
+        "lon": 87.28672,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 7",
+        "lat": 22.230032,
+        "lon": 87.268375,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 8",
+        "lat": 22.377303,
+        "lon": 87.219241,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 9",
+        "lat": 22.307233,
+        "lon": 87.216063,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 10",
+        "lat": 22.266234,
+        "lon": 87.266095,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 11",
+        "lat": 22.362392,
+        "lon": 87.304613,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 12",
+        "lat": 22.370344,
+        "lon": 87.283152,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 13",
+        "lat": 22.36021,
+        "lon": 87.237127,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 14",
+        "lat": 22.306595,
+        "lon": 87.254369,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 15",
+        "lat": 22.321114,
+        "lon": 87.332741,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 16",
+        "lat": 22.266872,
+        "lon": 87.287423,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 17",
+        "lat": 22.217859,
+        "lon": 87.399917,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 18",
+        "lat": 22.285844,
+        "lon": 87.22374,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 19",
+        "lat": 22.376868,
+        "lon": 87.325594,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 20",
+        "lat": 22.315834,
+        "lon": 87.376325,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 21",
+        "lat": 22.340596,
+        "lon": 87.354644,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 22",
+        "lat": 22.364615,
+        "lon": 87.253937,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 23",
+        "lat": 22.238926,
+        "lon": 87.313124,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 24",
+        "lat": 22.324603,
+        "lon": 87.382968,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 25",
+        "lat": 22.290904,
+        "lon": 87.207506,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 26",
+        "lat": 22.372164,
+        "lon": 87.296109,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 27",
+        "lat": 22.366306,
+        "lon": 87.345888,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 28",
+        "lat": 22.331811,
+        "lon": 87.342805,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 29",
+        "lat": 22.23491,
+        "lon": 87.269356,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 30",
+        "lat": 22.270999,
+        "lon": 87.33247,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 31",
+        "lat": 22.366195,
+        "lon": 87.261586,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 32",
+        "lat": 22.343075,
+        "lon": 87.298473,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 33",
+        "lat": 22.265571,
+        "lon": 87.254812,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 34",
+        "lat": 22.341152,
+        "lon": 87.383883,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 35",
+        "lat": 22.262585,
+        "lon": 87.301838,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 36",
+        "lat": 22.269076,
+        "lon": 87.279253,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 37",
+        "lat": 22.274413,
+        "lon": 87.354549,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 38",
+        "lat": 22.330372,
+        "lon": 87.263152,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 39",
+        "lat": 22.326805,
+        "lon": 87.203304,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 40",
+        "lat": 22.228721,
+        "lon": 87.30397,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 41",
+        "lat": 22.304872,
+        "lon": 87.212157,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 42",
+        "lat": 22.338342,
+        "lon": 87.33297,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 43",
+        "lat": 22.219501,
+        "lon": 87.321812,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 44",
+        "lat": 22.297791,
+        "lon": 87.343838,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 45",
+        "lat": 22.243317,
+        "lon": 87.291255,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 46",
+        "lat": 22.224122,
+        "lon": 87.374792,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 47",
+        "lat": 22.201544,
+        "lon": 87.28134,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 48",
+        "lat": 22.321398,
+        "lon": 87.353315,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 49",
+        "lat": 22.314556,
+        "lon": 87.370963,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 50",
+        "lat": 22.219392,
+        "lon": 87.20611,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 51",
+        "lat": 22.342356,
+        "lon": 87.385359,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 52",
+        "lat": 22.344835,
+        "lon": 87.397858,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 53",
+        "lat": 22.355779,
+        "lon": 87.203116,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 54",
+        "lat": 22.250985,
+        "lon": 87.291828,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 55",
+        "lat": 22.339648,
+        "lon": 87.367072,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 56",
+        "lat": 22.261972,
+        "lon": 87.367495,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 57",
+        "lat": 22.225138,
+        "lon": 87.204347,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 58",
+        "lat": 22.216383,
+        "lon": 87.36627,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 59",
+        "lat": 22.390931,
+        "lon": 87.299593,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 60",
+        "lat": 22.252368,
+        "lon": 87.311202,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 61",
+        "lat": 22.30718,
+        "lon": 87.312599,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 62",
+        "lat": 22.224409,
+        "lon": 87.353203,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 63",
+        "lat": 22.251681,
+        "lon": 87.370535,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 64",
+        "lat": 22.34508,
+        "lon": 87.321615,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 65",
+        "lat": 22.393763,
+        "lon": 87.361538,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 66",
+        "lat": 22.350558,
+        "lon": 87.31701,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 67",
+        "lat": 22.251565,
+        "lon": 87.346037,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 68",
+        "lat": 22.307,
+        "lon": 87.236485,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 69",
+        "lat": 22.317067,
+        "lon": 87.293713,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 70",
+        "lat": 22.242158,
+        "lon": 87.298531,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 71",
+        "lat": 22.298489,
+        "lon": 87.339621,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 72",
+        "lat": 22.243502,
+        "lon": 87.308599,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 73",
+        "lat": 22.377825,
+        "lon": 87.209835,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 74",
+        "lat": 22.291677,
+        "lon": 87.259509,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 75",
+        "lat": 22.227577,
+        "lon": 87.383454,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 76",
+        "lat": 22.368321,
+        "lon": 87.38145,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 77",
+        "lat": 22.281146,
+        "lon": 87.258323,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 78",
+        "lat": 22.265333,
+        "lon": 87.28075,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 79",
+        "lat": 22.397176,
+        "lon": 87.372816,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 80",
+        "lat": 22.374912,
+        "lon": 87.212579,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 81",
+        "lat": 22.31452,
+        "lon": 87.370318,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 82",
+        "lat": 22.249227,
+        "lon": 87.387742,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 83",
+        "lat": 22.224359,
+        "lon": 87.346648,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 84",
+        "lat": 22.323263,
+        "lon": 87.216943,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 85",
+        "lat": 22.396581,
+        "lon": 87.217543,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 86",
+        "lat": 22.246685,
+        "lon": 87.399493,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 87",
+        "lat": 22.222196,
+        "lon": 87.3469,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 88",
+        "lat": 22.216226,
+        "lon": 87.384128,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 89",
+        "lat": 22.375771,
+        "lon": 87.224261,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 90",
+        "lat": 22.23928,
+        "lon": 87.370539,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 91",
+        "lat": 22.207023,
+        "lon": 87.368943,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 92",
+        "lat": 22.322689,
+        "lon": 87.247581,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 93",
+        "lat": 22.322922,
+        "lon": 87.260594,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 94",
+        "lat": 22.247827,
+        "lon": 87.234895,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 95",
+        "lat": 22.208582,
+        "lon": 87.390712,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 96",
+        "lat": 22.39876,
+        "lon": 87.249625,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 97",
+        "lat": 22.230684,
+        "lon": 87.397873,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 98",
+        "lat": 22.249685,
+        "lon": 87.329132,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 99",
+        "lat": 22.336278,
+        "lon": 87.291344,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 100",
+        "lat": 22.330791,
+        "lon": 87.230788,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 101",
+        "lat": 22.30407,
+        "lon": 87.378662,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 102",
+        "lat": 22.257046,
+        "lon": 87.252848,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 103",
+        "lat": 22.292906,
+        "lon": 87.367317,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 104",
+        "lat": 22.221671,
+        "lon": 87.248387,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 105",
+        "lat": 22.344899,
+        "lon": 87.369353,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 106",
+        "lat": 22.21132,
+        "lon": 87.227497,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 107",
+        "lat": 22.213619,
+        "lon": 87.234588,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 108",
+        "lat": 22.358031,
+        "lon": 87.37544,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 109",
+        "lat": 22.260073,
+        "lon": 87.289867,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 110",
+        "lat": 22.290316,
+        "lon": 87.393371,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 111",
+        "lat": 22.233064,
+        "lon": 87.288536,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 112",
+        "lat": 22.37395,
+        "lon": 87.387587,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 113",
+        "lat": 22.346579,
+        "lon": 87.234056,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 114",
+        "lat": 22.287862,
+        "lon": 87.206882,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 115",
+        "lat": 22.201988,
+        "lon": 87.316145,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 116",
+        "lat": 22.326844,
+        "lon": 87.33749,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 117",
+        "lat": 22.380675,
+        "lon": 87.26641,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 118",
+        "lat": 22.2491,
+        "lon": 87.392118,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 119",
+        "lat": 22.22958,
+        "lon": 87.319113,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 120",
+        "lat": 22.315615,
+        "lon": 87.216213,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 121",
+        "lat": 22.398833,
+        "lon": 87.264927,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 122",
+        "lat": 22.320046,
+        "lon": 87.373586,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 123",
+        "lat": 22.29351,
+        "lon": 87.24881,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 124",
+        "lat": 22.360056,
+        "lon": 87.270058,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 125",
+        "lat": 22.286066,
+        "lon": 87.343295,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 126",
+        "lat": 22.223401,
+        "lon": 87.226527,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 127",
+        "lat": 22.205688,
+        "lon": 87.309406,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 128",
+        "lat": 22.37,
+        "lon": 87.341731,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 129",
+        "lat": 22.335247,
+        "lon": 87.398616,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 130",
+        "lat": 22.214493,
+        "lon": 87.328196,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 131",
+        "lat": 22.336685,
+        "lon": 87.385241,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 132",
+        "lat": 22.357444,
+        "lon": 87.208134,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 133",
+        "lat": 22.217904,
+        "lon": 87.295762,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 134",
+        "lat": 22.376824,
+        "lon": 87.241146,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 135",
+        "lat": 22.307945,
+        "lon": 87.230527,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 136",
+        "lat": 22.232661,
+        "lon": 87.358605,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 137",
+        "lat": 22.263451,
+        "lon": 87.345893,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 138",
+        "lat": 22.24284,
+        "lon": 87.248676,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 139",
+        "lat": 22.215051,
+        "lon": 87.38234,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 140",
+        "lat": 22.313155,
+        "lon": 87.31532,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 141",
+        "lat": 22.321304,
+        "lon": 87.294996,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 142",
+        "lat": 22.323562,
+        "lon": 87.210769,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 143",
+        "lat": 22.325892,
+        "lon": 87.334458,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 144",
+        "lat": 22.2393,
+        "lon": 87.278499,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 145",
+        "lat": 22.257403,
+        "lon": 87.292006,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 146",
+        "lat": 22.234773,
+        "lon": 87.314997,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 147",
+        "lat": 22.324487,
+        "lon": 87.215721,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 148",
+        "lat": 22.26993,
+        "lon": 87.212097,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 149",
+        "lat": 22.235414,
+        "lon": 87.377347,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 150",
+        "lat": 22.217085,
+        "lon": 87.358732,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 151",
+        "lat": 22.240108,
+        "lon": 87.223357,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 152",
+        "lat": 22.366297,
+        "lon": 87.254073,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 153",
+        "lat": 22.284945,
+        "lon": 87.336406,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 154",
+        "lat": 22.298087,
+        "lon": 87.20943,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 155",
+        "lat": 22.306736,
+        "lon": 87.210732,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 156",
+        "lat": 22.315284,
+        "lon": 87.309807,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 157",
+        "lat": 22.215717,
+        "lon": 87.335374,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 158",
+        "lat": 22.230344,
+        "lon": 87.313663,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 159",
+        "lat": 22.208449,
+        "lon": 87.20364,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 160",
+        "lat": 22.319673,
+        "lon": 87.399887,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 161",
+        "lat": 22.389023,
+        "lon": 87.247599,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 162",
+        "lat": 22.377517,
+        "lon": 87.319262,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 163",
+        "lat": 22.340502,
+        "lon": 87.290258,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 164",
+        "lat": 22.273094,
+        "lon": 87.383054,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 165",
+        "lat": 22.316463,
+        "lon": 87.216378,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 166",
+        "lat": 22.232306,
+        "lon": 87.356182,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 167",
+        "lat": 22.269321,
+        "lon": 87.353613,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 168",
+        "lat": 22.220224,
+        "lon": 87.363891,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 169",
+        "lat": 22.32629,
+        "lon": 87.224472,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 170",
+        "lat": 22.297667,
+        "lon": 87.250256,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 171",
+        "lat": 22.26132,
+        "lon": 87.309438,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 172",
+        "lat": 22.349244,
+        "lon": 87.397815,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 173",
+        "lat": 22.211811,
+        "lon": 87.290603,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 174",
+        "lat": 22.392584,
+        "lon": 87.269489,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 175",
+        "lat": 22.253494,
+        "lon": 87.397518,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 176",
+        "lat": 22.389423,
+        "lon": 87.245374,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 177",
+        "lat": 22.391947,
+        "lon": 87.320306,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 178",
+        "lat": 22.347803,
+        "lon": 87.373789,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 179",
+        "lat": 22.27604,
+        "lon": 87.223166,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 180",
+        "lat": 22.367096,
+        "lon": 87.243366,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 181",
+        "lat": 22.222102,
+        "lon": 87.390213,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 182",
+        "lat": 22.23141,
+        "lon": 87.295874,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 183",
+        "lat": 22.331346,
+        "lon": 87.37191,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 184",
+        "lat": 22.31504,
+        "lon": 87.243633,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 185",
+        "lat": 22.384056,
+        "lon": 87.382716,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 186",
+        "lat": 22.384368,
+        "lon": 87.280766,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 187",
+        "lat": 22.329428,
+        "lon": 87.372876,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 188",
+        "lat": 22.226882,
+        "lon": 87.382166,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 189",
+        "lat": 22.351226,
+        "lon": 87.285389,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 190",
+        "lat": 22.32182,
+        "lon": 87.276693,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 191",
+        "lat": 22.22468,
+        "lon": 87.235108,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 192",
+        "lat": 22.265129,
+        "lon": 87.251697,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 193",
+        "lat": 22.382478,
+        "lon": 87.329524,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 194",
+        "lat": 22.255176,
+        "lon": 87.278934,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 195",
+        "lat": 22.219934,
+        "lon": 87.208938,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 196",
+        "lat": 22.267131,
+        "lon": 87.390665,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 197",
+        "lat": 22.355562,
+        "lon": 87.219722,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 198",
+        "lat": 22.294111,
+        "lon": 87.249784,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 199",
+        "lat": 22.295062,
+        "lon": 87.275599,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 200",
+        "lat": 22.258982,
+        "lon": 87.376009,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 201",
+        "lat": 22.252122,
+        "lon": 87.250656,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 202",
+        "lat": 22.398692,
+        "lon": 87.274219,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 203",
+        "lat": 22.311364,
+        "lon": 87.234613,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 204",
+        "lat": 22.231569,
+        "lon": 87.320651,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 205",
+        "lat": 22.335377,
+        "lon": 87.370815,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 206",
+        "lat": 22.233636,
+        "lon": 87.212246,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 207",
+        "lat": 22.353238,
+        "lon": 87.375723,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 208",
+        "lat": 22.376831,
+        "lon": 87.233315,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 209",
+        "lat": 22.398144,
+        "lon": 87.309251,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 210",
+        "lat": 22.300983,
+        "lon": 87.260306,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 211",
+        "lat": 22.233891,
+        "lon": 87.370966,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 212",
+        "lat": 22.249795,
+        "lon": 87.299846,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 213",
+        "lat": 22.215174,
+        "lon": 87.29308,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 214",
+        "lat": 22.353285,
+        "lon": 87.259464,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 215",
+        "lat": 22.212313,
+        "lon": 87.34832,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 216",
+        "lat": 22.310087,
+        "lon": 87.3931,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 217",
+        "lat": 22.226407,
+        "lon": 87.304944,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 218",
+        "lat": 22.287975,
+        "lon": 87.316192,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 219",
+        "lat": 22.313407,
+        "lon": 87.301826,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 220",
+        "lat": 22.244557,
+        "lon": 87.320489,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 221",
+        "lat": 22.200893,
+        "lon": 87.234689,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 222",
+        "lat": 22.201922,
+        "lon": 87.204781,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 223",
+        "lat": 22.303754,
+        "lon": 87.370245,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 224",
+        "lat": 22.369962,
+        "lon": 87.206841,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 225",
+        "lat": 22.275519,
+        "lon": 87.208233,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 226",
+        "lat": 22.297438,
+        "lon": 87.262326,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 227",
+        "lat": 22.334151,
+        "lon": 87.241088,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 228",
+        "lat": 22.350405,
+        "lon": 87.364916,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 229",
+        "lat": 22.378148,
+        "lon": 87.333317,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 230",
+        "lat": 22.29381,
+        "lon": 87.220507,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 231",
+        "lat": 22.324084,
+        "lon": 87.317822,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 232",
+        "lat": 22.327633,
+        "lon": 87.335516,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 233",
+        "lat": 22.270566,
+        "lon": 87.384717,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 234",
+        "lat": 22.297015,
+        "lon": 87.241161,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 235",
+        "lat": 22.355908,
+        "lon": 87.206191,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 236",
+        "lat": 22.21475,
+        "lon": 87.265074,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 237",
+        "lat": 22.229469,
+        "lon": 87.260008,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 238",
+        "lat": 22.378401,
+        "lon": 87.249031,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 239",
+        "lat": 22.285194,
+        "lon": 87.245898,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 240",
+        "lat": 22.295005,
+        "lon": 87.296093,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 241",
+        "lat": 22.316047,
+        "lon": 87.206178,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 242",
+        "lat": 22.329489,
+        "lon": 87.385104,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 243",
+        "lat": 22.229324,
+        "lon": 87.284249,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 244",
+        "lat": 22.258992,
+        "lon": 87.36054,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 245",
+        "lat": 22.364078,
+        "lon": 87.200462,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 246",
+        "lat": 22.355521,
+        "lon": 87.246858,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 247",
+        "lat": 22.248337,
+        "lon": 87.233558,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 248",
+        "lat": 22.347111,
+        "lon": 87.309084,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 249",
+        "lat": 22.350745,
+        "lon": 87.27338,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 250",
+        "lat": 22.307901,
+        "lon": 87.23652,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 251",
+        "lat": 22.301514,
+        "lon": 87.206736,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 252",
+        "lat": 22.326654,
+        "lon": 87.219295,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 253",
+        "lat": 22.376253,
+        "lon": 87.341225,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 254",
+        "lat": 22.282817,
+        "lon": 87.340769,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 255",
+        "lat": 22.394245,
+        "lon": 87.286501,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 256",
+        "lat": 22.319752,
+        "lon": 87.382905,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 257",
+        "lat": 22.244197,
+        "lon": 87.341366,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 258",
+        "lat": 22.33158,
+        "lon": 87.272505,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 259",
+        "lat": 22.35756,
+        "lon": 87.237029,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 260",
+        "lat": 22.245468,
+        "lon": 87.244747,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 261",
+        "lat": 22.241541,
+        "lon": 87.276617,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 262",
+        "lat": 22.26807,
+        "lon": 87.211739,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 263",
+        "lat": 22.274383,
+        "lon": 87.316417,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 264",
+        "lat": 22.358762,
+        "lon": 87.388625,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 265",
+        "lat": 22.238348,
+        "lon": 87.271036,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 266",
+        "lat": 22.208748,
+        "lon": 87.221571,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 267",
+        "lat": 22.373539,
+        "lon": 87.367174,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 268",
+        "lat": 22.218118,
+        "lon": 87.235655,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 269",
+        "lat": 22.298377,
+        "lon": 87.32408,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 270",
+        "lat": 22.273264,
+        "lon": 87.204085,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 271",
+        "lat": 22.389629,
+        "lon": 87.246411,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 272",
+        "lat": 22.323746,
+        "lon": 87.314126,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 273",
+        "lat": 22.376985,
+        "lon": 87.242697,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 274",
+        "lat": 22.234607,
+        "lon": 87.281417,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 275",
+        "lat": 22.244833,
+        "lon": 87.309609,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 276",
+        "lat": 22.346889,
+        "lon": 87.356925,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 277",
+        "lat": 22.380927,
+        "lon": 87.220799,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 278",
+        "lat": 22.251751,
+        "lon": 87.262578,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 279",
+        "lat": 22.222822,
+        "lon": 87.215537,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 280",
+        "lat": 22.304172,
+        "lon": 87.213484,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 281",
+        "lat": 22.217854,
+        "lon": 87.251625,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 282",
+        "lat": 22.240484,
+        "lon": 87.30212,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 283",
+        "lat": 22.390304,
+        "lon": 87.215511,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 284",
+        "lat": 22.366241,
+        "lon": 87.249554,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 285",
+        "lat": 22.29261,
+        "lon": 87.326231,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 286",
+        "lat": 22.318296,
+        "lon": 87.331913,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 287",
+        "lat": 22.369753,
+        "lon": 87.310391,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 288",
+        "lat": 22.266348,
+        "lon": 87.252042,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 289",
+        "lat": 22.354293,
+        "lon": 87.37232,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 290",
+        "lat": 22.201853,
+        "lon": 87.267174,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 291",
+        "lat": 22.235495,
+        "lon": 87.304275,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 292",
+        "lat": 22.252564,
+        "lon": 87.229234,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 293",
+        "lat": 22.201169,
+        "lon": 87.363576,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 294",
+        "lat": 22.21773,
+        "lon": 87.334148,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 295",
+        "lat": 22.379732,
+        "lon": 87.364353,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 296",
+        "lat": 22.278604,
+        "lon": 87.336601,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 297",
+        "lat": 22.360244,
+        "lon": 87.39447,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 298",
+        "lat": 22.369824,
+        "lon": 87.326152,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 299",
+        "lat": 22.306299,
+        "lon": 87.220493,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 300",
+        "lat": 22.351179,
+        "lon": 87.332282,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 301",
+        "lat": 22.269228,
+        "lon": 87.375924,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 302",
+        "lat": 22.313777,
+        "lon": 87.372732,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 303",
+        "lat": 22.32719,
+        "lon": 87.263317,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 304",
+        "lat": 22.277439,
+        "lon": 87.252596,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 305",
+        "lat": 22.29579,
+        "lon": 87.330651,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 306",
+        "lat": 22.362071,
+        "lon": 87.298622,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 307",
+        "lat": 22.276171,
+        "lon": 87.310776,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 308",
+        "lat": 22.350464,
+        "lon": 87.370482,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 309",
+        "lat": 22.354508,
+        "lon": 87.375061,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 310",
+        "lat": 22.328518,
+        "lon": 87.375207,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 311",
+        "lat": 22.390821,
+        "lon": 87.208044,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 312",
+        "lat": 22.253663,
+        "lon": 87.27507,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 313",
+        "lat": 22.299897,
+        "lon": 87.31963,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 314",
+        "lat": 22.334091,
+        "lon": 87.245541,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 315",
+        "lat": 22.286,
+        "lon": 87.368843,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 316",
+        "lat": 22.26295,
+        "lon": 87.341157,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 317",
+        "lat": 22.343387,
+        "lon": 87.348766,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 318",
+        "lat": 22.383725,
+        "lon": 87.227558,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 319",
+        "lat": 22.248527,
+        "lon": 87.325226,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 320",
+        "lat": 22.216606,
+        "lon": 87.322674,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 321",
+        "lat": 22.314112,
+        "lon": 87.346754,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 322",
+        "lat": 22.232671,
+        "lon": 87.22835,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 323",
+        "lat": 22.235424,
+        "lon": 87.227984,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 324",
+        "lat": 22.260688,
+        "lon": 87.352544,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 325",
+        "lat": 22.363498,
+        "lon": 87.266845,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 326",
+        "lat": 22.380582,
+        "lon": 87.212364,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 327",
+        "lat": 22.302389,
+        "lon": 87.305933,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 328",
+        "lat": 22.248617,
+        "lon": 87.310269,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 329",
+        "lat": 22.32442,
+        "lon": 87.365908,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 330",
+        "lat": 22.316796,
+        "lon": 87.339898,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 331",
+        "lat": 22.269331,
+        "lon": 87.262792,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 332",
+        "lat": 22.267266,
+        "lon": 87.287115,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 333",
+        "lat": 22.354577,
+        "lon": 87.334135,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 334",
+        "lat": 22.353434,
+        "lon": 87.259213,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 335",
+        "lat": 22.245623,
+        "lon": 87.268282,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 336",
+        "lat": 22.305262,
+        "lon": 87.202308,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 337",
+        "lat": 22.270408,
+        "lon": 87.246044,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 338",
+        "lat": 22.309648,
+        "lon": 87.306923,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 339",
+        "lat": 22.37775,
+        "lon": 87.32664,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 340",
+        "lat": 22.295316,
+        "lon": 87.282004,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 341",
+        "lat": 22.311765,
+        "lon": 87.261694,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 342",
+        "lat": 22.258055,
+        "lon": 87.246133,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 343",
+        "lat": 22.361403,
+        "lon": 87.251243,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 344",
+        "lat": 22.368864,
+        "lon": 87.30819,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 345",
+        "lat": 22.283037,
+        "lon": 87.292388,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 346",
+        "lat": 22.34697,
+        "lon": 87.242139,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 347",
+        "lat": 22.362336,
+        "lon": 87.330494,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 348",
+        "lat": 22.342198,
+        "lon": 87.218976,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 349",
+        "lat": 22.298493,
+        "lon": 87.229804,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 350",
+        "lat": 22.394467,
+        "lon": 87.272649,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 351",
+        "lat": 22.353636,
+        "lon": 87.315775,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 352",
+        "lat": 22.258319,
+        "lon": 87.271667,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 353",
+        "lat": 22.251553,
+        "lon": 87.308233,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 354",
+        "lat": 22.246438,
+        "lon": 87.272893,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 355",
+        "lat": 22.225465,
+        "lon": 87.288479,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 356",
+        "lat": 22.217701,
+        "lon": 87.306544,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 357",
+        "lat": 22.252027,
+        "lon": 87.216492,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 358",
+        "lat": 22.377725,
+        "lon": 87.320622,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 359",
+        "lat": 22.291726,
+        "lon": 87.371913,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 360",
+        "lat": 22.336235,
+        "lon": 87.220555,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 361",
+        "lat": 22.225837,
+        "lon": 87.226419,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 362",
+        "lat": 22.249276,
+        "lon": 87.285228,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 363",
+        "lat": 22.266397,
+        "lon": 87.202433,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 364",
+        "lat": 22.210559,
+        "lon": 87.23041,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 365",
+        "lat": 22.361448,
+        "lon": 87.224084,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 366",
+        "lat": 22.278573,
+        "lon": 87.379162,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 367",
+        "lat": 22.202118,
+        "lon": 87.311305,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 368",
+        "lat": 22.261568,
+        "lon": 87.22065,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 369",
+        "lat": 22.249742,
+        "lon": 87.25805,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 370",
+        "lat": 22.377149,
+        "lon": 87.262345,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 371",
+        "lat": 22.297673,
+        "lon": 87.293107,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 372",
+        "lat": 22.30587,
+        "lon": 87.29156,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 373",
+        "lat": 22.245037,
+        "lon": 87.370614,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 374",
+        "lat": 22.348845,
+        "lon": 87.308166,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 375",
+        "lat": 22.394676,
+        "lon": 87.211499,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 376",
+        "lat": 22.23808,
+        "lon": 87.282741,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 377",
+        "lat": 22.201207,
+        "lon": 87.252821,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 378",
+        "lat": 22.397387,
+        "lon": 87.360917,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 379",
+        "lat": 22.374552,
+        "lon": 87.220023,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 380",
+        "lat": 22.357866,
+        "lon": 87.328121,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 381",
+        "lat": 22.370508,
+        "lon": 87.302559,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 382",
+        "lat": 22.258864,
+        "lon": 87.337507,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 383",
+        "lat": 22.374874,
+        "lon": 87.351396,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 384",
+        "lat": 22.20466,
+        "lon": 87.207218,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 385",
+        "lat": 22.204323,
+        "lon": 87.246855,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 386",
+        "lat": 22.315429,
+        "lon": 87.289153,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 387",
+        "lat": 22.210314,
+        "lon": 87.278644,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 388",
+        "lat": 22.238804,
+        "lon": 87.390495,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 389",
+        "lat": 22.306156,
+        "lon": 87.30139,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 390",
+        "lat": 22.27336,
+        "lon": 87.33177,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 391",
+        "lat": 22.262193,
+        "lon": 87.36093,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 392",
+        "lat": 22.213016,
+        "lon": 87.390169,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 393",
+        "lat": 22.244347,
+        "lon": 87.394198,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 394",
+        "lat": 22.220268,
+        "lon": 87.3798,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 395",
+        "lat": 22.377,
+        "lon": 87.354367,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 396",
+        "lat": 22.327049,
+        "lon": 87.320783,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 397",
+        "lat": 22.264959,
+        "lon": 87.257086,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 398",
+        "lat": 22.351273,
+        "lon": 87.397259,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 399",
+        "lat": 22.332561,
+        "lon": 87.235816,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 400",
+        "lat": 22.312745,
+        "lon": 87.260544,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 401",
+        "lat": 22.380637,
+        "lon": 87.336937,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 402",
+        "lat": 22.235251,
+        "lon": 87.235808,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 403",
+        "lat": 22.320584,
+        "lon": 87.284523,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 404",
+        "lat": 22.301548,
+        "lon": 87.258642,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 405",
+        "lat": 22.362844,
+        "lon": 87.256716,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 406",
+        "lat": 22.224238,
+        "lon": 87.20883,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 407",
+        "lat": 22.388463,
+        "lon": 87.38299,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 408",
+        "lat": 22.277372,
+        "lon": 87.201375,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 409",
+        "lat": 22.212537,
+        "lon": 87.358713,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 410",
+        "lat": 22.210817,
+        "lon": 87.379232,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 411",
+        "lat": 22.342877,
+        "lon": 87.259104,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 412",
+        "lat": 22.344406,
+        "lon": 87.314943,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 413",
+        "lat": 22.22322,
+        "lon": 87.367964,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 414",
+        "lat": 22.396609,
+        "lon": 87.263695,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 415",
+        "lat": 22.319531,
+        "lon": 87.270499,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 416",
+        "lat": 22.203107,
+        "lon": 87.285622,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 417",
+        "lat": 22.221953,
+        "lon": 87.285759,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 418",
+        "lat": 22.375509,
+        "lon": 87.332057,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 419",
+        "lat": 22.227701,
+        "lon": 87.31587,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 420",
+        "lat": 22.314425,
+        "lon": 87.385126,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 421",
+        "lat": 22.226219,
+        "lon": 87.254203,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 422",
+        "lat": 22.300102,
+        "lon": 87.286534,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 423",
+        "lat": 22.285854,
+        "lon": 87.204619,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 424",
+        "lat": 22.267797,
+        "lon": 87.26283,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 425",
+        "lat": 22.358493,
+        "lon": 87.298859,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 426",
+        "lat": 22.389202,
+        "lon": 87.279767,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 427",
+        "lat": 22.390773,
+        "lon": 87.373626,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 428",
+        "lat": 22.265125,
+        "lon": 87.371998,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 429",
+        "lat": 22.239485,
+        "lon": 87.247704,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 430",
+        "lat": 22.367728,
+        "lon": 87.205374,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 431",
+        "lat": 22.220791,
+        "lon": 87.391778,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 432",
+        "lat": 22.299541,
+        "lon": 87.314092,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 433",
+        "lat": 22.389138,
+        "lon": 87.377431,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 434",
+        "lat": 22.329226,
+        "lon": 87.269399,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 435",
+        "lat": 22.372249,
+        "lon": 87.210384,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 436",
+        "lat": 22.208228,
+        "lon": 87.29727,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 437",
+        "lat": 22.237371,
+        "lon": 87.220519,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 438",
+        "lat": 22.302631,
+        "lon": 87.387884,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 439",
+        "lat": 22.393198,
+        "lon": 87.276004,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 440",
+        "lat": 22.209305,
+        "lon": 87.389604,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 441",
+        "lat": 22.222647,
+        "lon": 87.32296,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 442",
+        "lat": 22.301311,
+        "lon": 87.242685,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 443",
+        "lat": 22.362183,
+        "lon": 87.29358,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 444",
+        "lat": 22.332008,
+        "lon": 87.388565,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 445",
+        "lat": 22.306187,
+        "lon": 87.240875,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 446",
+        "lat": 22.342197,
+        "lon": 87.27927,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 447",
+        "lat": 22.307655,
+        "lon": 87.361286,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 448",
+        "lat": 22.255627,
+        "lon": 87.236794,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 449",
+        "lat": 22.352122,
+        "lon": 87.377985,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 450",
+        "lat": 22.282606,
+        "lon": 87.278132,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 451",
+        "lat": 22.391439,
+        "lon": 87.250337,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 452",
+        "lat": 22.337131,
+        "lon": 87.262853,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 453",
+        "lat": 22.257565,
+        "lon": 87.362504,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 454",
+        "lat": 22.21128,
+        "lon": 87.353198,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 455",
+        "lat": 22.312234,
+        "lon": 87.314726,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 456",
+        "lat": 22.302067,
+        "lon": 87.341668,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 457",
+        "lat": 22.35972,
+        "lon": 87.23566,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 458",
+        "lat": 22.30434,
+        "lon": 87.374354,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 459",
+        "lat": 22.279095,
+        "lon": 87.304832,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 460",
+        "lat": 22.205014,
+        "lon": 87.24877,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 461",
+        "lat": 22.314036,
+        "lon": 87.379352,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 462",
+        "lat": 22.232498,
+        "lon": 87.336692,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 463",
+        "lat": 22.279504,
+        "lon": 87.242259,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 464",
+        "lat": 22.352144,
+        "lon": 87.379066,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 465",
+        "lat": 22.269124,
+        "lon": 87.285933,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 466",
+        "lat": 22.282998,
+        "lon": 87.316603,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 467",
+        "lat": 22.353342,
+        "lon": 87.338319,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 468",
+        "lat": 22.205703,
+        "lon": 87.217277,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 469",
+        "lat": 22.269609,
+        "lon": 87.34653,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 470",
+        "lat": 22.261511,
+        "lon": 87.203791,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 471",
+        "lat": 22.380107,
+        "lon": 87.289014,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 472",
+        "lat": 22.382474,
+        "lon": 87.272419,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 473",
+        "lat": 22.203813,
+        "lon": 87.240216,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 474",
+        "lat": 22.248948,
+        "lon": 87.33346,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 475",
+        "lat": 22.348107,
+        "lon": 87.267487,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 476",
+        "lat": 22.298847,
+        "lon": 87.276719,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 477",
+        "lat": 22.305422,
+        "lon": 87.339618,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 478",
+        "lat": 22.340384,
+        "lon": 87.265908,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 479",
+        "lat": 22.282158,
+        "lon": 87.259142,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 480",
+        "lat": 22.278001,
+        "lon": 87.236668,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 481",
+        "lat": 22.397328,
+        "lon": 87.297465,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 482",
+        "lat": 22.247324,
+        "lon": 87.320384,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 483",
+        "lat": 22.345956,
+        "lon": 87.219683,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 484",
+        "lat": 22.218019,
+        "lon": 87.305942,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 485",
+        "lat": 22.284483,
+        "lon": 87.336301,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 486",
+        "lat": 22.335254,
+        "lon": 87.393386,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 487",
+        "lat": 22.373748,
+        "lon": 87.267102,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 488",
+        "lat": 22.204836,
+        "lon": 87.262359,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 489",
+        "lat": 22.30261,
+        "lon": 87.250704,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 490",
+        "lat": 22.221072,
+        "lon": 87.342829,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 491",
+        "lat": 22.307233,
+        "lon": 87.222671,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 492",
+        "lat": 22.333468,
+        "lon": 87.30603,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 493",
+        "lat": 22.312837,
+        "lon": 87.345332,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 494",
+        "lat": 22.234702,
+        "lon": 87.388815,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 495",
+        "lat": 22.262374,
+        "lon": 87.299406,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 496",
+        "lat": 22.327247,
+        "lon": 87.394319,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 497",
+        "lat": 22.214069,
+        "lon": 87.285731,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 498",
+        "lat": 22.361646,
+        "lon": 87.389774,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 499",
+        "lat": 22.376528,
+        "lon": 87.392174,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 500",
+        "lat": 22.313906,
+        "lon": 87.384163,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 501",
+        "lat": 22.278831,
+        "lon": 87.236066,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 502",
+        "lat": 22.228853,
+        "lon": 87.226577,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 503",
+        "lat": 22.2226,
+        "lon": 87.377998,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 504",
+        "lat": 22.37337,
+        "lon": 87.321234,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 505",
+        "lat": 22.336631,
+        "lon": 87.384244,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 506",
+        "lat": 22.20237,
+        "lon": 87.337067,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 507",
+        "lat": 22.232119,
+        "lon": 87.302755,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 508",
+        "lat": 22.241687,
+        "lon": 87.285994,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 509",
+        "lat": 22.366208,
+        "lon": 87.294376,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 510",
+        "lat": 22.254902,
+        "lon": 87.372898,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 511",
+        "lat": 22.286673,
+        "lon": 87.358028,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 512",
+        "lat": 22.28363,
+        "lon": 87.270092,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 513",
+        "lat": 22.23337,
+        "lon": 87.230283,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 514",
+        "lat": 22.349772,
+        "lon": 87.32091,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 515",
+        "lat": 22.330905,
+        "lon": 87.367186,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 516",
+        "lat": 22.248928,
+        "lon": 87.227784,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 517",
+        "lat": 22.334674,
+        "lon": 87.280238,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 518",
+        "lat": 22.283615,
+        "lon": 87.335335,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 519",
+        "lat": 22.22097,
+        "lon": 87.379855,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 520",
+        "lat": 22.286208,
+        "lon": 87.320135,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 521",
+        "lat": 22.250825,
+        "lon": 87.284329,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 522",
+        "lat": 22.237909,
+        "lon": 87.346221,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 523",
+        "lat": 22.311227,
+        "lon": 87.250794,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 524",
+        "lat": 22.264734,
+        "lon": 87.248964,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 525",
+        "lat": 22.321944,
+        "lon": 87.366197,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 526",
+        "lat": 22.319663,
+        "lon": 87.275354,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 527",
+        "lat": 22.271538,
+        "lon": 87.376683,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 528",
+        "lat": 22.370421,
+        "lon": 87.256893,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 529",
+        "lat": 22.368025,
+        "lon": 87.358446,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 530",
+        "lat": 22.21154,
+        "lon": 87.321608,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 531",
+        "lat": 22.39105,
+        "lon": 87.243506,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 532",
+        "lat": 22.260241,
+        "lon": 87.227075,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 533",
+        "lat": 22.210685,
+        "lon": 87.390128,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 534",
+        "lat": 22.267904,
+        "lon": 87.267678,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 535",
+        "lat": 22.368006,
+        "lon": 87.303177,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 536",
+        "lat": 22.211264,
+        "lon": 87.220938,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 537",
+        "lat": 22.346836,
+        "lon": 87.329066,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 538",
+        "lat": 22.315707,
+        "lon": 87.245834,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 539",
+        "lat": 22.297964,
+        "lon": 87.395831,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 540",
+        "lat": 22.223413,
+        "lon": 87.299787,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 541",
+        "lat": 22.32683,
+        "lon": 87.375818,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 542",
+        "lat": 22.317117,
+        "lon": 87.385815,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 543",
+        "lat": 22.234856,
+        "lon": 87.315752,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 544",
+        "lat": 22.211278,
+        "lon": 87.208865,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 545",
+        "lat": 22.251851,
+        "lon": 87.275182,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 546",
+        "lat": 22.396053,
+        "lon": 87.336595,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 547",
+        "lat": 22.24389,
+        "lon": 87.315213,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 548",
+        "lat": 22.279333,
+        "lon": 87.248746,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 549",
+        "lat": 22.336907,
+        "lon": 87.241189,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 550",
+        "lat": 22.33145,
+        "lon": 87.36921,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 551",
+        "lat": 22.265553,
+        "lon": 87.248898,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 552",
+        "lat": 22.292143,
+        "lon": 87.232198,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 553",
+        "lat": 22.395953,
+        "lon": 87.212904,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 554",
+        "lat": 22.29639,
+        "lon": 87.278173,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 555",
+        "lat": 22.329831,
+        "lon": 87.302327,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 556",
+        "lat": 22.312732,
+        "lon": 87.39092,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 557",
+        "lat": 22.25458,
+        "lon": 87.398853,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 558",
+        "lat": 22.257267,
+        "lon": 87.252533,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 559",
+        "lat": 22.271824,
+        "lon": 87.28273,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 560",
+        "lat": 22.302041,
+        "lon": 87.344714,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 561",
+        "lat": 22.378547,
+        "lon": 87.25003,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 562",
+        "lat": 22.393905,
+        "lon": 87.246784,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 563",
+        "lat": 22.398572,
+        "lon": 87.204539,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 564",
+        "lat": 22.359364,
+        "lon": 87.33645,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 565",
+        "lat": 22.282484,
+        "lon": 87.291233,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 566",
+        "lat": 22.332265,
+        "lon": 87.380878,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 567",
+        "lat": 22.376612,
+        "lon": 87.246942,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 568",
+        "lat": 22.218358,
+        "lon": 87.372992,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 569",
+        "lat": 22.26952,
+        "lon": 87.352048,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 570",
+        "lat": 22.263808,
+        "lon": 87.398765,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 571",
+        "lat": 22.389656,
+        "lon": 87.342135,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 572",
+        "lat": 22.295746,
+        "lon": 87.219197,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 573",
+        "lat": 22.24423,
+        "lon": 87.26656,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 574",
+        "lat": 22.215197,
+        "lon": 87.271777,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 575",
+        "lat": 22.294819,
+        "lon": 87.356405,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 576",
+        "lat": 22.231493,
+        "lon": 87.217215,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 577",
+        "lat": 22.34845,
+        "lon": 87.387385,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 578",
+        "lat": 22.364609,
+        "lon": 87.385473,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 579",
+        "lat": 22.308319,
+        "lon": 87.314557,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 580",
+        "lat": 22.23077,
+        "lon": 87.387032,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 581",
+        "lat": 22.230357,
+        "lon": 87.228113,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 582",
+        "lat": 22.238916,
+        "lon": 87.351882,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 583",
+        "lat": 22.323083,
+        "lon": 87.338058,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 584",
+        "lat": 22.226608,
+        "lon": 87.250688,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 585",
+        "lat": 22.323365,
+        "lon": 87.29039,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 586",
+        "lat": 22.234316,
+        "lon": 87.209191,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 587",
+        "lat": 22.346368,
+        "lon": 87.24466,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 588",
+        "lat": 22.379922,
+        "lon": 87.386788,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 589",
+        "lat": 22.215822,
+        "lon": 87.263076,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 590",
+        "lat": 22.229524,
+        "lon": 87.305651,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 591",
+        "lat": 22.387819,
+        "lon": 87.258688,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 592",
+        "lat": 22.375924,
+        "lon": 87.2025,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 593",
+        "lat": 22.276857,
+        "lon": 87.395477,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 594",
+        "lat": 22.305687,
+        "lon": 87.286466,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 595",
+        "lat": 22.356315,
+        "lon": 87.275719,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 596",
+        "lat": 22.230075,
+        "lon": 87.265334,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 597",
+        "lat": 22.344158,
+        "lon": 87.370347,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 598",
+        "lat": 22.354463,
+        "lon": 87.221096,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 599",
+        "lat": 22.397699,
+        "lon": 87.26173,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 600",
+        "lat": 22.239802,
+        "lon": 87.244265,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 601",
+        "lat": 22.298895,
+        "lon": 87.258526,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 602",
+        "lat": 22.318417,
+        "lon": 87.257158,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 603",
+        "lat": 22.379107,
+        "lon": 87.302569,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 604",
+        "lat": 22.357471,
+        "lon": 87.36752,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 605",
+        "lat": 22.396544,
+        "lon": 87.235604,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 606",
+        "lat": 22.303438,
+        "lon": 87.386993,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 607",
+        "lat": 22.373163,
+        "lon": 87.205209,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 608",
+        "lat": 22.307102,
+        "lon": 87.290277,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 609",
+        "lat": 22.343996,
+        "lon": 87.351707,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 610",
+        "lat": 22.354503,
+        "lon": 87.342083,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 611",
+        "lat": 22.310322,
+        "lon": 87.283903,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 612",
+        "lat": 22.243833,
+        "lon": 87.252411,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 613",
+        "lat": 22.295938,
+        "lon": 87.320278,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 614",
+        "lat": 22.259192,
+        "lon": 87.28201,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 615",
+        "lat": 22.285282,
+        "lon": 87.204099,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 616",
+        "lat": 22.268951,
+        "lon": 87.208735,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 617",
+        "lat": 22.247179,
+        "lon": 87.260254,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 618",
+        "lat": 22.211787,
+        "lon": 87.254682,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 619",
+        "lat": 22.363222,
+        "lon": 87.31063,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 620",
+        "lat": 22.373288,
+        "lon": 87.344748,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 621",
+        "lat": 22.248674,
+        "lon": 87.349036,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 622",
+        "lat": 22.37897,
+        "lon": 87.280042,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 623",
+        "lat": 22.371532,
+        "lon": 87.357994,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 624",
+        "lat": 22.323785,
+        "lon": 87.314379,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 625",
+        "lat": 22.294014,
+        "lon": 87.345627,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 626",
+        "lat": 22.357923,
+        "lon": 87.214282,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 627",
+        "lat": 22.309787,
+        "lon": 87.33588,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 628",
+        "lat": 22.274815,
+        "lon": 87.307225,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 629",
+        "lat": 22.335219,
+        "lon": 87.289983,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 630",
+        "lat": 22.357652,
+        "lon": 87.363575,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 631",
+        "lat": 22.392323,
+        "lon": 87.394716,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 632",
+        "lat": 22.33696,
+        "lon": 87.320748,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 633",
+        "lat": 22.337993,
+        "lon": 87.337522,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 634",
+        "lat": 22.395579,
+        "lon": 87.301756,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 635",
+        "lat": 22.301812,
+        "lon": 87.323001,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 636",
+        "lat": 22.287038,
+        "lon": 87.255334,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 637",
+        "lat": 22.213628,
+        "lon": 87.204797,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 638",
+        "lat": 22.289025,
+        "lon": 87.34707,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 639",
+        "lat": 22.2833,
+        "lon": 87.365095,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 640",
+        "lat": 22.258991,
+        "lon": 87.328661,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 641",
+        "lat": 22.386002,
+        "lon": 87.236575,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 642",
+        "lat": 22.314615,
+        "lon": 87.229096,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 643",
+        "lat": 22.303059,
+        "lon": 87.25918,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 644",
+        "lat": 22.258887,
+        "lon": 87.337726,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 645",
+        "lat": 22.379531,
+        "lon": 87.256592,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 646",
+        "lat": 22.341082,
+        "lon": 87.311928,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 647",
+        "lat": 22.323633,
+        "lon": 87.231729,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 648",
+        "lat": 22.317493,
+        "lon": 87.380184,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 649",
+        "lat": 22.243263,
+        "lon": 87.307332,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 650",
+        "lat": 22.303335,
+        "lon": 87.292462,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 651",
+        "lat": 22.223499,
+        "lon": 87.368813,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 652",
+        "lat": 22.292783,
+        "lon": 87.27028,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 653",
+        "lat": 22.310182,
+        "lon": 87.292187,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 654",
+        "lat": 22.372695,
+        "lon": 87.212955,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 655",
+        "lat": 22.370682,
+        "lon": 87.266287,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 656",
+        "lat": 22.383068,
+        "lon": 87.376916,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 657",
+        "lat": 22.374114,
+        "lon": 87.203515,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 658",
+        "lat": 22.256651,
+        "lon": 87.380547,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 659",
+        "lat": 22.255842,
+        "lon": 87.372066,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 660",
+        "lat": 22.346282,
+        "lon": 87.330148,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 661",
+        "lat": 22.225666,
+        "lon": 87.25626,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 662",
+        "lat": 22.366287,
+        "lon": 87.211721,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 663",
+        "lat": 22.263703,
+        "lon": 87.383474,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 664",
+        "lat": 22.283944,
+        "lon": 87.232742,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 665",
+        "lat": 22.347729,
+        "lon": 87.231344,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 666",
+        "lat": 22.305031,
+        "lon": 87.259042,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 667",
+        "lat": 22.380771,
+        "lon": 87.290312,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 668",
+        "lat": 22.275262,
+        "lon": 87.3781,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 669",
+        "lat": 22.216707,
+        "lon": 87.224331,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 670",
+        "lat": 22.236285,
+        "lon": 87.301901,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 671",
+        "lat": 22.309893,
+        "lon": 87.314322,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 672",
+        "lat": 22.319522,
+        "lon": 87.322085,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 673",
+        "lat": 22.345037,
+        "lon": 87.332904,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 674",
+        "lat": 22.33837,
+        "lon": 87.301493,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 675",
+        "lat": 22.211533,
+        "lon": 87.292365,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 676",
+        "lat": 22.34474,
+        "lon": 87.237425,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 677",
+        "lat": 22.378636,
+        "lon": 87.276346,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 678",
+        "lat": 22.329765,
+        "lon": 87.258681,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 679",
+        "lat": 22.264079,
+        "lon": 87.200248,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 680",
+        "lat": 22.20521,
+        "lon": 87.370738,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 681",
+        "lat": 22.208357,
+        "lon": 87.227194,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 682",
+        "lat": 22.397705,
+        "lon": 87.232738,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 683",
+        "lat": 22.289976,
+        "lon": 87.325224,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 684",
+        "lat": 22.389641,
+        "lon": 87.26683,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 685",
+        "lat": 22.378446,
+        "lon": 87.338946,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 686",
+        "lat": 22.345792,
+        "lon": 87.294355,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 687",
+        "lat": 22.319531,
+        "lon": 87.345182,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 688",
+        "lat": 22.346508,
+        "lon": 87.309298,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 689",
+        "lat": 22.261771,
+        "lon": 87.355653,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 690",
+        "lat": 22.345093,
+        "lon": 87.283712,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 691",
+        "lat": 22.315138,
+        "lon": 87.217242,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 692",
+        "lat": 22.319288,
+        "lon": 87.240207,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 693",
+        "lat": 22.317802,
+        "lon": 87.340065,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 694",
+        "lat": 22.274964,
+        "lon": 87.270355,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 695",
+        "lat": 22.37895,
+        "lon": 87.200713,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 696",
+        "lat": 22.354548,
+        "lon": 87.393367,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 697",
+        "lat": 22.216611,
+        "lon": 87.344482,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 698",
+        "lat": 22.359854,
+        "lon": 87.334272,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 699",
+        "lat": 22.389263,
+        "lon": 87.395202,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 700",
+        "lat": 22.392061,
+        "lon": 87.396221,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 701",
+        "lat": 22.386131,
+        "lon": 87.248719,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 702",
+        "lat": 22.306072,
+        "lon": 87.24059,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 703",
+        "lat": 22.370777,
+        "lon": 87.291507,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 704",
+        "lat": 22.346601,
+        "lon": 87.313206,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 705",
+        "lat": 22.218222,
+        "lon": 87.261735,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 706",
+        "lat": 22.27722,
+        "lon": 87.323795,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 707",
+        "lat": 22.375271,
+        "lon": 87.287185,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 708",
+        "lat": 22.299392,
+        "lon": 87.298655,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 709",
+        "lat": 22.315208,
+        "lon": 87.200839,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 710",
+        "lat": 22.284621,
+        "lon": 87.244633,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 711",
+        "lat": 22.354361,
+        "lon": 87.248106,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 712",
+        "lat": 22.361825,
+        "lon": 87.270026,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 713",
+        "lat": 22.367123,
+        "lon": 87.36237,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 714",
+        "lat": 22.357912,
+        "lon": 87.349949,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 715",
+        "lat": 22.257191,
+        "lon": 87.379548,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 716",
+        "lat": 22.245096,
+        "lon": 87.284879,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 717",
+        "lat": 22.27423,
+        "lon": 87.375072,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 718",
+        "lat": 22.352241,
+        "lon": 87.205612,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 719",
+        "lat": 22.234718,
+        "lon": 87.398511,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 720",
+        "lat": 22.28599,
+        "lon": 87.224266,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 721",
+        "lat": 22.386838,
+        "lon": 87.329006,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 722",
+        "lat": 22.248705,
+        "lon": 87.384106,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 723",
+        "lat": 22.219324,
+        "lon": 87.305361,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 724",
+        "lat": 22.205833,
+        "lon": 87.219474,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 725",
+        "lat": 22.340729,
+        "lon": 87.36737,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 726",
+        "lat": 22.219225,
+        "lon": 87.203384,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 727",
+        "lat": 22.375017,
+        "lon": 87.393278,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 728",
+        "lat": 22.237066,
+        "lon": 87.287309,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 729",
+        "lat": 22.397394,
+        "lon": 87.369151,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 730",
+        "lat": 22.361821,
+        "lon": 87.374825,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 731",
+        "lat": 22.282232,
+        "lon": 87.210207,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 732",
+        "lat": 22.267857,
+        "lon": 87.327534,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 733",
+        "lat": 22.27931,
+        "lon": 87.365422,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 734",
+        "lat": 22.229403,
+        "lon": 87.389885,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 735",
+        "lat": 22.380927,
+        "lon": 87.321622,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 736",
+        "lat": 22.270093,
+        "lon": 87.385457,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 737",
+        "lat": 22.242788,
+        "lon": 87.330084,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 738",
+        "lat": 22.230118,
+        "lon": 87.329326,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 739",
+        "lat": 22.319622,
+        "lon": 87.236517,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 740",
+        "lat": 22.211622,
+        "lon": 87.29551,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 741",
+        "lat": 22.243048,
+        "lon": 87.278185,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 742",
+        "lat": 22.203592,
+        "lon": 87.276433,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 743",
+        "lat": 22.212413,
+        "lon": 87.396932,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 744",
+        "lat": 22.309138,
+        "lon": 87.32996,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 745",
+        "lat": 22.278183,
+        "lon": 87.362932,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 746",
+        "lat": 22.258521,
+        "lon": 87.335727,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 747",
+        "lat": 22.304723,
+        "lon": 87.295795,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 748",
+        "lat": 22.39764,
+        "lon": 87.200495,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 749",
+        "lat": 22.349208,
+        "lon": 87.206079,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 750",
+        "lat": 22.287956,
+        "lon": 87.21899,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 751",
+        "lat": 22.37204,
+        "lon": 87.397511,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 752",
+        "lat": 22.251094,
+        "lon": 87.327729,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 753",
+        "lat": 22.297973,
+        "lon": 87.383884,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 754",
+        "lat": 22.257824,
+        "lon": 87.308544,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 755",
+        "lat": 22.247831,
+        "lon": 87.366861,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 756",
+        "lat": 22.246725,
+        "lon": 87.308117,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 757",
+        "lat": 22.369237,
+        "lon": 87.20511,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 758",
+        "lat": 22.360672,
+        "lon": 87.202065,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 759",
+        "lat": 22.218171,
+        "lon": 87.326384,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 760",
+        "lat": 22.215898,
+        "lon": 87.364141,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 761",
+        "lat": 22.384924,
+        "lon": 87.359918,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 762",
+        "lat": 22.348154,
+        "lon": 87.324723,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 763",
+        "lat": 22.318794,
+        "lon": 87.3979,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 764",
+        "lat": 22.205073,
+        "lon": 87.285681,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 765",
+        "lat": 22.388694,
+        "lon": 87.332288,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 766",
+        "lat": 22.371492,
+        "lon": 87.298781,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 767",
+        "lat": 22.208655,
+        "lon": 87.263097,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 768",
+        "lat": 22.278075,
+        "lon": 87.38792,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 769",
+        "lat": 22.268325,
+        "lon": 87.246692,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 770",
+        "lat": 22.23703,
+        "lon": 87.333712,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 771",
+        "lat": 22.366731,
+        "lon": 87.301013,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 772",
+        "lat": 22.272266,
+        "lon": 87.327244,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 773",
+        "lat": 22.24456,
+        "lon": 87.248375,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 774",
+        "lat": 22.343134,
+        "lon": 87.387487,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 775",
+        "lat": 22.326611,
+        "lon": 87.228327,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 776",
+        "lat": 22.217094,
+        "lon": 87.217454,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 777",
+        "lat": 22.35808,
+        "lon": 87.308112,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 778",
+        "lat": 22.350075,
+        "lon": 87.324183,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 779",
+        "lat": 22.288806,
+        "lon": 87.368703,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 780",
+        "lat": 22.378514,
+        "lon": 87.373516,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 781",
+        "lat": 22.323608,
+        "lon": 87.319702,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 782",
+        "lat": 22.293621,
+        "lon": 87.23394,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 783",
+        "lat": 22.261932,
+        "lon": 87.388824,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 784",
+        "lat": 22.210215,
+        "lon": 87.36866,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 785",
+        "lat": 22.297574,
+        "lon": 87.33015,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 786",
+        "lat": 22.262607,
+        "lon": 87.346673,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 787",
+        "lat": 22.31177,
+        "lon": 87.283124,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 788",
+        "lat": 22.364089,
+        "lon": 87.211506,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 789",
+        "lat": 22.216148,
+        "lon": 87.246466,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 790",
+        "lat": 22.205444,
+        "lon": 87.256496,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 791",
+        "lat": 22.369305,
+        "lon": 87.330942,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 792",
+        "lat": 22.292204,
+        "lon": 87.215435,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 793",
+        "lat": 22.245829,
+        "lon": 87.286456,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 794",
+        "lat": 22.29123,
+        "lon": 87.332142,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 795",
+        "lat": 22.280687,
+        "lon": 87.277928,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 796",
+        "lat": 22.259206,
+        "lon": 87.213793,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 797",
+        "lat": 22.390422,
+        "lon": 87.333799,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 798",
+        "lat": 22.2076,
+        "lon": 87.290994,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 799",
+        "lat": 22.394312,
+        "lon": 87.252718,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 800",
+        "lat": 22.36673,
+        "lon": 87.350234,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 801",
+        "lat": 22.261313,
+        "lon": 87.353958,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 802",
+        "lat": 22.293589,
+        "lon": 87.292866,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 803",
+        "lat": 22.21884,
+        "lon": 87.356323,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 804",
+        "lat": 22.280798,
+        "lon": 87.290124,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 805",
+        "lat": 22.275077,
+        "lon": 87.296553,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 806",
+        "lat": 22.253204,
+        "lon": 87.258268,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 807",
+        "lat": 22.204263,
+        "lon": 87.342208,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 808",
+        "lat": 22.227286,
+        "lon": 87.232419,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 809",
+        "lat": 22.323779,
+        "lon": 87.382436,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 810",
+        "lat": 22.257446,
+        "lon": 87.391126,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 811",
+        "lat": 22.222687,
+        "lon": 87.324604,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 812",
+        "lat": 22.344754,
+        "lon": 87.318478,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 813",
+        "lat": 22.326018,
+        "lon": 87.226166,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 814",
+        "lat": 22.206436,
+        "lon": 87.309095,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 815",
+        "lat": 22.286844,
+        "lon": 87.211088,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 816",
+        "lat": 22.225829,
+        "lon": 87.307687,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 817",
+        "lat": 22.380702,
+        "lon": 87.26004,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 818",
+        "lat": 22.389806,
+        "lon": 87.217057,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 819",
+        "lat": 22.329226,
+        "lon": 87.227186,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 820",
+        "lat": 22.386584,
+        "lon": 87.240968,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 821",
+        "lat": 22.267226,
+        "lon": 87.25117,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 822",
+        "lat": 22.389406,
+        "lon": 87.270872,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 823",
+        "lat": 22.324786,
+        "lon": 87.231198,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 824",
+        "lat": 22.287522,
+        "lon": 87.345642,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 825",
+        "lat": 22.304223,
+        "lon": 87.377623,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 826",
+        "lat": 22.218574,
+        "lon": 87.270777,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 827",
+        "lat": 22.262157,
+        "lon": 87.255757,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 828",
+        "lat": 22.258082,
+        "lon": 87.275747,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 829",
+        "lat": 22.259398,
+        "lon": 87.280046,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 830",
+        "lat": 22.257844,
+        "lon": 87.27988,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 831",
+        "lat": 22.299411,
+        "lon": 87.296463,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 832",
+        "lat": 22.278933,
+        "lon": 87.234305,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 833",
+        "lat": 22.324525,
+        "lon": 87.245071,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 834",
+        "lat": 22.383345,
+        "lon": 87.388716,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 835",
+        "lat": 22.297385,
+        "lon": 87.300145,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 836",
+        "lat": 22.301705,
+        "lon": 87.229074,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 837",
+        "lat": 22.354455,
+        "lon": 87.347404,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 838",
+        "lat": 22.282258,
+        "lon": 87.362511,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 839",
+        "lat": 22.309174,
+        "lon": 87.382766,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 840",
+        "lat": 22.263398,
+        "lon": 87.382144,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 841",
+        "lat": 22.280505,
+        "lon": 87.387779,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 842",
+        "lat": 22.296944,
+        "lon": 87.36129,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 843",
+        "lat": 22.292003,
+        "lon": 87.376904,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 844",
+        "lat": 22.352113,
+        "lon": 87.340561,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 845",
+        "lat": 22.287991,
+        "lon": 87.274777,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 846",
+        "lat": 22.284226,
+        "lon": 87.349496,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 847",
+        "lat": 22.318799,
+        "lon": 87.275896,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 848",
+        "lat": 22.20534,
+        "lon": 87.382252,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 849",
+        "lat": 22.258269,
+        "lon": 87.269269,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 850",
+        "lat": 22.376411,
+        "lon": 87.297398,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 851",
+        "lat": 22.355714,
+        "lon": 87.325857,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 852",
+        "lat": 22.2499,
+        "lon": 87.211062,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 853",
+        "lat": 22.248671,
+        "lon": 87.277847,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 854",
+        "lat": 22.304637,
+        "lon": 87.238649,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 855",
+        "lat": 22.296802,
+        "lon": 87.32044,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 856",
+        "lat": 22.325942,
+        "lon": 87.312855,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 857",
+        "lat": 22.350701,
+        "lon": 87.337564,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 858",
+        "lat": 22.279801,
+        "lon": 87.314187,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 859",
+        "lat": 22.288557,
+        "lon": 87.230445,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 860",
+        "lat": 22.274958,
+        "lon": 87.238632,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 861",
+        "lat": 22.230981,
+        "lon": 87.301596,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 862",
+        "lat": 22.291762,
+        "lon": 87.233111,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 863",
+        "lat": 22.368217,
+        "lon": 87.395683,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 864",
+        "lat": 22.219467,
+        "lon": 87.341363,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 865",
+        "lat": 22.310772,
+        "lon": 87.299354,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 866",
+        "lat": 22.257464,
+        "lon": 87.389042,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 867",
+        "lat": 22.322408,
+        "lon": 87.300978,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 868",
+        "lat": 22.225713,
+        "lon": 87.341928,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 869",
+        "lat": 22.30836,
+        "lon": 87.202814,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 870",
+        "lat": 22.209998,
+        "lon": 87.348048,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 871",
+        "lat": 22.266818,
+        "lon": 87.33532,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 872",
+        "lat": 22.332065,
+        "lon": 87.273551,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 873",
+        "lat": 22.265716,
+        "lon": 87.206886,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 874",
+        "lat": 22.287074,
+        "lon": 87.281796,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 875",
+        "lat": 22.24858,
+        "lon": 87.362717,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 876",
+        "lat": 22.260064,
+        "lon": 87.343849,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 877",
+        "lat": 22.353899,
+        "lon": 87.34183,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 878",
+        "lat": 22.202727,
+        "lon": 87.284676,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 879",
+        "lat": 22.208265,
+        "lon": 87.391038,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 880",
+        "lat": 22.206971,
+        "lon": 87.295583,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 881",
+        "lat": 22.204329,
+        "lon": 87.301761,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 882",
+        "lat": 22.265339,
+        "lon": 87.37241,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 883",
+        "lat": 22.299318,
+        "lon": 87.37763,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 884",
+        "lat": 22.298208,
+        "lon": 87.345293,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 885",
+        "lat": 22.240413,
+        "lon": 87.303229,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 886",
+        "lat": 22.216485,
+        "lon": 87.26633,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 887",
+        "lat": 22.341859,
+        "lon": 87.294386,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 888",
+        "lat": 22.22731,
+        "lon": 87.342275,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 889",
+        "lat": 22.336485,
+        "lon": 87.210382,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 890",
+        "lat": 22.390404,
+        "lon": 87.375323,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 891",
+        "lat": 22.291643,
+        "lon": 87.395335,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 892",
+        "lat": 22.397319,
+        "lon": 87.391347,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 893",
+        "lat": 22.3435,
+        "lon": 87.27491,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 894",
+        "lat": 22.286855,
+        "lon": 87.311029,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 895",
+        "lat": 22.20389,
+        "lon": 87.31049,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 896",
+        "lat": 22.373994,
+        "lon": 87.260125,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 897",
+        "lat": 22.328005,
+        "lon": 87.258094,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 898",
+        "lat": 22.25839,
+        "lon": 87.233449,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 899",
+        "lat": 22.216474,
+        "lon": 87.356952,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 900",
+        "lat": 22.27097,
+        "lon": 87.319453,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 901",
+        "lat": 22.210936,
+        "lon": 87.227989,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 902",
+        "lat": 22.280563,
+        "lon": 87.332843,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 903",
+        "lat": 22.214649,
+        "lon": 87.319576,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 904",
+        "lat": 22.298402,
+        "lon": 87.246301,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 905",
+        "lat": 22.269772,
+        "lon": 87.35427,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 906",
+        "lat": 22.308745,
+        "lon": 87.364592,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 907",
+        "lat": 22.325326,
+        "lon": 87.225919,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 908",
+        "lat": 22.296998,
+        "lon": 87.342884,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 909",
+        "lat": 22.236162,
+        "lon": 87.203438,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 910",
+        "lat": 22.329868,
+        "lon": 87.208668,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 911",
+        "lat": 22.233793,
+        "lon": 87.392351,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 912",
+        "lat": 22.36098,
+        "lon": 87.361659,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 913",
+        "lat": 22.369512,
+        "lon": 87.257479,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 914",
+        "lat": 22.274523,
+        "lon": 87.25673,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 915",
+        "lat": 22.321437,
+        "lon": 87.307047,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 916",
+        "lat": 22.2263,
+        "lon": 87.219236,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 917",
+        "lat": 22.395785,
+        "lon": 87.202615,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 918",
+        "lat": 22.246965,
+        "lon": 87.332807,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 919",
+        "lat": 22.396808,
+        "lon": 87.213908,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 920",
+        "lat": 22.260925,
+        "lon": 87.298746,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 921",
+        "lat": 22.221991,
+        "lon": 87.235231,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 922",
+        "lat": 22.328163,
+        "lon": 87.229545,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 923",
+        "lat": 22.390062,
+        "lon": 87.312047,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 924",
+        "lat": 22.259173,
+        "lon": 87.382814,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 925",
+        "lat": 22.368376,
+        "lon": 87.38261,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 926",
+        "lat": 22.325778,
+        "lon": 87.302172,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 927",
+        "lat": 22.312722,
+        "lon": 87.202241,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 928",
+        "lat": 22.202812,
+        "lon": 87.259919,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 929",
+        "lat": 22.326272,
+        "lon": 87.295979,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 930",
+        "lat": 22.364038,
+        "lon": 87.306063,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 931",
+        "lat": 22.264651,
+        "lon": 87.386284,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 932",
+        "lat": 22.201143,
+        "lon": 87.345089,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 933",
+        "lat": 22.359402,
+        "lon": 87.334309,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 934",
+        "lat": 22.308572,
+        "lon": 87.389858,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 935",
+        "lat": 22.291407,
+        "lon": 87.218792,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 936",
+        "lat": 22.385402,
+        "lon": 87.25543,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 937",
+        "lat": 22.204999,
+        "lon": 87.250695,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 938",
+        "lat": 22.391708,
+        "lon": 87.225118,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 939",
+        "lat": 22.339813,
+        "lon": 87.272059,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 940",
+        "lat": 22.308861,
+        "lon": 87.331109,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 941",
+        "lat": 22.381893,
+        "lon": 87.21342,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 942",
+        "lat": 22.393453,
+        "lon": 87.280167,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 943",
+        "lat": 22.329397,
+        "lon": 87.310084,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 944",
+        "lat": 22.354224,
+        "lon": 87.23502,
+        "radius": 8
+    },
+    {
+        "name": "Obstacle 945",
+        "lat": 22.229768,
+        "lon": 87.361006,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 946",
+        "lat": 22.39257,
+        "lon": 87.250125,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 947",
+        "lat": 22.375255,
+        "lon": 87.375286,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 948",
+        "lat": 22.372135,
+        "lon": 87.257572,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 949",
+        "lat": 22.269607,
+        "lon": 87.389623,
+        "radius": 15
+    },
+    {
+        "name": "Obstacle 950",
+        "lat": 22.319074,
+        "lon": 87.33768,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 951",
+        "lat": 22.270054,
+        "lon": 87.380163,
+        "radius": 9
+    },
+    {
+        "name": "Obstacle 952",
+        "lat": 22.210517,
+        "lon": 87.266577,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 953",
+        "lat": 22.340437,
+        "lon": 87.292627,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 954",
+        "lat": 22.351955,
+        "lon": 87.32666,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 955",
+        "lat": 22.295341,
+        "lon": 87.318239,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 956",
+        "lat": 22.337669,
+        "lon": 87.296141,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 957",
+        "lat": 22.313437,
+        "lon": 87.211843,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 958",
+        "lat": 22.296089,
+        "lon": 87.290667,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 959",
+        "lat": 22.359821,
+        "lon": 87.3543,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 960",
+        "lat": 22.389033,
+        "lon": 87.25733,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 961",
+        "lat": 22.259399,
+        "lon": 87.260297,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 962",
+        "lat": 22.340129,
+        "lon": 87.266688,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 963",
+        "lat": 22.388085,
+        "lon": 87.353946,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 964",
+        "lat": 22.273448,
+        "lon": 87.244835,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 965",
+        "lat": 22.363687,
+        "lon": 87.258975,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 966",
+        "lat": 22.23489,
+        "lon": 87.230164,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 967",
+        "lat": 22.347327,
+        "lon": 87.378691,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 968",
+        "lat": 22.209307,
+        "lon": 87.376725,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 969",
+        "lat": 22.304555,
+        "lon": 87.337522,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 970",
+        "lat": 22.275001,
+        "lon": 87.318577,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 971",
+        "lat": 22.252121,
+        "lon": 87.236533,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 972",
+        "lat": 22.255687,
+        "lon": 87.225275,
+        "radius": 6
+    },
+    {
+        "name": "Obstacle 973",
+        "lat": 22.29566,
+        "lon": 87.266852,
+        "radius": 19
+    },
+    {
+        "name": "Obstacle 974",
+        "lat": 22.330486,
+        "lon": 87.263164,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 975",
+        "lat": 22.309791,
+        "lon": 87.346139,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 976",
+        "lat": 22.310861,
+        "lon": 87.24853,
+        "radius": 16
+    },
+    {
+        "name": "Obstacle 977",
+        "lat": 22.374313,
+        "lon": 87.301164,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 978",
+        "lat": 22.308141,
+        "lon": 87.292116,
+        "radius": 12
+    },
+    {
+        "name": "Obstacle 979",
+        "lat": 22.214756,
+        "lon": 87.330166,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 980",
+        "lat": 22.275977,
+        "lon": 87.23528,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 981",
+        "lat": 22.356465,
+        "lon": 87.394298,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 982",
+        "lat": 22.388059,
+        "lon": 87.227916,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 983",
+        "lat": 22.215732,
+        "lon": 87.394222,
+        "radius": 13
+    },
+    {
+        "name": "Obstacle 984",
+        "lat": 22.390656,
+        "lon": 87.27689,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 985",
+        "lat": 22.239106,
+        "lon": 87.223837,
+        "radius": 7
+    },
+    {
+        "name": "Obstacle 986",
+        "lat": 22.248238,
+        "lon": 87.211245,
+        "radius": 10
+    },
+    {
+        "name": "Obstacle 987",
+        "lat": 22.391663,
+        "lon": 87.307112,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 988",
+        "lat": 22.273236,
+        "lon": 87.246798,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 989",
+        "lat": 22.298095,
+        "lon": 87.394811,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 990",
+        "lat": 22.304378,
+        "lon": 87.288126,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 991",
+        "lat": 22.39231,
+        "lon": 87.346453,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 992",
+        "lat": 22.221325,
+        "lon": 87.314976,
+        "radius": 17
+    },
+    {
+        "name": "Obstacle 993",
+        "lat": 22.317755,
+        "lon": 87.254573,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 994",
+        "lat": 22.27703,
+        "lon": 87.303421,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 995",
+        "lat": 22.287182,
+        "lon": 87.301315,
+        "radius": 11
+    },
+    {
+        "name": "Obstacle 996",
+        "lat": 22.345031,
+        "lon": 87.245529,
+        "radius": 14
+    },
+    {
+        "name": "Obstacle 997",
+        "lat": 22.221336,
+        "lon": 87.377709,
+        "radius": 18
+    },
+    {
+        "name": "Obstacle 998",
+        "lat": 22.36404,
+        "lon": 87.373458,
+        "radius": 5
+    },
+    {
+        "name": "Obstacle 999",
+        "lat": 22.242726,
+        "lon": 87.366124,
+        "radius": 20
+    },
+    {
+        "name": "Obstacle 1000",
+        "lat": 22.245734,
+        "lon": 87.357786,
+        "radius": 11
+    }
+]

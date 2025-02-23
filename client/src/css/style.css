@@ -1,0 +1,59 @@
+
+
+/* Input and Dropdown Styling */
+.input-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  position: relative; /* Ensure dropdown positioning is controlled */
+  margin-left: 20px;
+  margin-left: 400px;
+}
+
+input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  width: 200px;
+}
+
+/* Dropdown Styling */
+.dropdown {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #007bff;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  width: 200px;
+  position: relative;
+  z-index: 10; /* Ensure dropdown appears above other content */
+}
+
+/* Ensure dropdown options appear below */
+.dropdown option {
+  padding: 10px;
+  background-color: white;
+  color: black;
+}
+
+/* Confirm Button Styling */
+.confirm-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  z-index: 5;
+  margin-left: 5px;
+}
+
+.confirm-button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "No-Fly Zone 1",
+        "lat": 22.298753,
+        "lon": 87.318185,
+        "radius": 66
+    },
+    {
+        "name": "No-Fly Zone 2",
+        "lat": 22.368702,
+        "lon": 87.311934,
+        "radius": 60
+    },
+    {
+        "name": "No-Fly Zone 3",
+        "lat": 22.36037,
+        "lon": 87.339739,
+        "radius": 77
+    },
+    {
+        "name": "No-Fly Zone 4",
+        "lat": 22.338159,
+        "lon": 87.382676,
+        "radius": 53
+    },
+    {
+        "name": "No-Fly Zone 5",
+        "lat": 22.362333,
+        "lon": 87.368634,
+        "radius": 77
+    },
+    {
+        "name": "No-Fly Zone 6",
+        "lat": 22.225606,
+        "lon": 87.316481,
+        "radius": 90
+    },
+    {
+        "name": "No-Fly Zone 7",
+        "lat": 22.267485,
+        "lon": 87.363031,
+        "radius": 78
+    },
+    {
+        "name": "No-Fly Zone 8",
+        "lat": 22.345858,
+        "lon": 87.266655,
+        "radius": 71
+    },
+    {
+        "name": "No-Fly Zone 9",
+        "lat": 22.285915,
+        "lon": 87.332303,
+        "radius": 87
+    },
+    {
+        "name": "No-Fly Zone 10",
+        "lat": 22.316983,
+        "lon": 87.22935,
+        "radius": 66
+    },
+    {
+        "name": "No-Fly Zone 11",
+        "lat": 22.326572,
+        "lon": 87.206464,
+        "radius": 87
+    },
+    {
+        "name": "No-Fly Zone 12",
+        "lat": 22.245664,
+        "lon": 87.30712,
+        "radius": 56
+    },
+    {
+        "name": "No-Fly Zone 13",
+        "lat": 22.229072,
+        "lon": 87.252714,
+        "radius": 82
+    },
+    {
+        "name": "No-Fly Zone 14",
+        "lat": 22.360638,
+        "lon": 87.227835,
+        "radius": 96
+    },
+    {
+        "name": "No-Fly Zone 15",
+        "lat": 22.305348,
+        "lon": 87.345471,
+        "radius": 86
+    }
+]
